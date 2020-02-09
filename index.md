@@ -8,7 +8,7 @@ This demonstration's purpose was to show a rudimentary understanding of basic Gi
 public class HelloWorld {
 public static void main(String[] args) {
 		
-		System.out.println("Welcome to AdGenerator! \n"
+		System.out.println("Hello World! \n"
     }
     }
 ```
